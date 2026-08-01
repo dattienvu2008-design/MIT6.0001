@@ -4,8 +4,8 @@
 
 ## Some Random Info
 
-* 📅 **Started** on May 23, 2021
-* 🏁 **Finished** on TBD
+* 📅 **Started** on July 10, 2026
+* 🏁 **Finished** on July 16, 2026
 * ℹ️ **Python Versions I used**: [3.10]
 
 ## Sources
