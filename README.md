@@ -10,4 +10,4 @@
 
 ## Sources
 
-* [Problem Sets]([https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/download/]): MIT OCW 6.0001, Fall 2016 Course
+* [Problem Sets](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/download/): MIT OCW 6.0001, Fall 2016 Course
